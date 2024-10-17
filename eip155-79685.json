@@ -24,7 +24,7 @@
   ],
   "parent": {
     "type": "L2",
-    "chain": "eip155-42161",
+    "chain": "eip155-10",
     "bridges": []
   }
 }

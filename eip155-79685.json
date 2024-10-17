@@ -1,0 +1,30 @@
+{
+  "name": "Mobl3",
+  "chain": "Mobl3",
+  "rpc": [
+    "https://sepolia.mobl3.xyz",
+    "https://79685.rpc.thirdweb.com",
+  ],
+  "faucets": ["https://faucet.mobl3.xyz"],
+  "nativeCurrency": {
+    "name": "Mobl3 Testnet",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "infoURL": "https://www.mobl3.xyz",
+  "shortName": "Mob",
+  "chainId": 79685,
+  "networkId": 79685,
+  "explorers": [
+    {
+      "name": "Mobl3 Explorer",
+      "url": "https://testnet.mobl3.xyz",
+      "standard": "EIP3091"
+    }
+  ],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-42161",
+    "bridges": []
+  }
+}
